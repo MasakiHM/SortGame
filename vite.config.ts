@@ -7,7 +7,7 @@ import { dirname } from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-
+console.log("✅ vite.config.ts loaded");
 export default defineConfig({
   plugins: [react(),tailwindcss()],
   resolve: {
