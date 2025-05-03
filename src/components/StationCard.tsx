@@ -1,5 +1,4 @@
 import { Station } from "@/types";
-import { lineColorMap } from "@/data/lineColorMap";
 
 export default function StationCard({ station, revealed = true }: { station: Station; revealed?: boolean }) {
   return (
