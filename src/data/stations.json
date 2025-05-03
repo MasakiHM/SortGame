@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "新宿", "kana": "しんじゅく","romaji": "Shinjuku", "city": "東京都新宿区", "lines": ["JR山手線", "京王線"], "passengers": 3514765 },
+  { "id": 2, "name": "渋谷", "kana": "しぶや","romaji": "Shibuya", "city": "東京都渋谷区", "lines": ["JR山手線", "銀座線"], "passengers": 2418124 },
+  { "id": 3, "name": "三崎口", "kana": "みさきぐち","romaji": "Misakiguchi", "city": "神奈川県三崎市", "lines": ["京急久里浜線"], "passengers": 8231 },
+  { "id": 4, "name": "八王子", "kana": "はちおうじ","romaji": "Hachioji", "city": "東京都八王子市", "lines": ["JR中央線"], "passengers": 93657 },
+  { "id": 5, "name": "戸塚", "kana": "とつか","romaji": "Totsuka", "city": "神奈川県横浜市", "lines": ["JR東海道線"], "passengers": 214567 },
+  { "id": 6, "name": "桜木町", "kana": "さくらぎちょう","romaji": "Sakuragi-cho", "city": "神奈川県横浜市", "lines": ["JR根岸線"], "passengers": 133456 },
+  { "id": 7, "name": "東戸塚", "kana": "ひがしとつか","romaji": "Higashi-totsuka", "city": "神奈川県横浜市", "lines": ["JR横須賀線"], "passengers": 84567 },
+  { "id": 8, "name": "横浜", "kana": "よこはま","romaji": "Yokohama", "city": "神奈川県横浜市", "lines": ["JR東海道線", "東急東横線"], "passengers": 2314567 }
+]
